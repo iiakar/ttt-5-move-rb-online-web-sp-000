@@ -13,7 +13,7 @@ def input_to_index(user_input)
     user_input -= 1
   end 
   
-  def (array, index, value)
+  def (array,index,value)
   array[index] = value
 end
  
