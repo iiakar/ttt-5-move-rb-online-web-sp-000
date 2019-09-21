@@ -17,4 +17,3 @@ def input_to_index(user_input)
   array[index] = value
 end
  
-update_array_at_with(board, 0, "X")
