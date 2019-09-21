@@ -13,4 +13,5 @@ def input_to_index(user_input)
     user_input -= 1
   end 
   
-  def move(board,user_input,)
+  def move(board,user_input,"X")
+  end 
